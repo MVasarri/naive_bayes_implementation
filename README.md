@@ -1,1 +1,1 @@
-# naive_bayes_implementationprevisioni.calcoloProbconTeta
+# naive_bayes_implementation
